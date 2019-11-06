@@ -7,10 +7,10 @@ A Docker container with Kali linux running XFCE and NoVNC. This allows users to 
 
 
 ## Known Issues
-* The VNC window in the browser is super crazy tall. If you can fix this, please make a PR
-* RDP may provide better performance, so it would be good to compare with FreeRDP + Guacamole
+* The VNC window in the browser is super crazy tall. If you can fix this, please make a PR <- FIXED
+* RDP may provide better performance, so it would be good to compare with FreeRDP + Guacamole <- So far so good, so not needed.
 
 
 ## Credits
 
-Thanks to Jerry Gamblin for the idea for this with his project [kalibrowser](https://jerrygamblin.com/2016/05/31/kalibrowser/)
+Project forked from Dan Salmon (sa7mon), and fixed some small parts, he also thanks: Jerry Gamblin for the idea for this with his project [kalibrowser](https://jerrygamblin.com/2016/05/31/kalibrowser/)
